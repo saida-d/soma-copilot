@@ -22,6 +22,12 @@ support** by combining AI-powered responses with integrated tools.
 #### Tools
 ![Azure AI Copilot](assets/tool.png)
 
+#### Bing Custom Search (Soma)
+![Azure AI Copilot](assets/bing_custom_search.png)
+
+#### Conversational boosting
+![Azure AI Copilot](assets/topic.png)
+
 ## 🚀 Features
 
 1.  **Customer Support Q&A**
@@ -34,6 +40,12 @@ support** by combining AI-powered responses with integrated tools.
     -   Offers to schedule a **Microsoft Teams meeting** with the sales
         team whenever customers request **project deals, quotations, or
         direct engagement**.
+4.  **Bing Custom Search**
+    -   Provided Bing custom search to hold outcome within boundry**.
+
+5.  **Content Moderation**
+    -   To ensure safety and accuracy, the agent responds only when the content meets a high confidence threshold.**.
+	
 
 ## 📌 Guidelines for Soma-Assistant
 
