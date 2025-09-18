@@ -41,10 +41,10 @@ support** by combining AI-powered responses with integrated tools.
         team whenever customers request **project deals, quotations, or
         direct engagement**.
 4.  **Bing Custom Search**
-    -   Provided Bing custom search to hold outcome within boundry**.
+    -   Provided Bing custom search to hold outcome within boundry
 
 5.  **Content Moderation**
-    -   To ensure safety and accuracy, the agent responds only when the content meets a high confidence threshold.**.
+    -   To ensure safety and accuracy, the agent responds only when the content meets a high confidence threshold.
 	
 
 ## 📌 Guidelines for Soma-Assistant
