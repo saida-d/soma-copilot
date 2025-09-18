@@ -13,19 +13,19 @@ The main goal of Soma-Assistant is to provide **seamless customer
 support** by combining AI-powered responses with integrated tools.
 
 
-#### One of the Topic (Flow)
+### One of the Topic (Flow)
 ![Azure AI Copilot](assets/flow.png)
 
-#### Knowledge base
+### Knowledge base
 ![Azure AI Copilot](assets/knowledge_base.png)
 
-#### Tools
+### Tools
 ![Azure AI Copilot](assets/tool.png)
 
-#### Bing Custom Search (Soma)
+### Bing Custom Search (Soma)
 ![Azure AI Copilot](assets/bing_custom_search.png)
 
-#### Conversational boosting
+### Conversational boosting
 ![Azure AI Copilot](assets/topic.png)
 
 
