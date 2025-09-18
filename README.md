@@ -29,11 +29,12 @@ support** by combining AI-powered responses with integrated tools.
 ![Azure AI Copilot](assets/topic.png)
 
 
-#### Soma-Assistant in action
-![Azure AI Copilot](assets/chat_1.png)
+### Copilot-Soma in action
+
+| ![Overview](assets/chat_1.png) | ![Sales & Meetings](assets/chat_sales.png) |
+|---|---|
 
 
-![Azure AI Copilot](assets/chat_sales.png)
 
 ## 🚀 Features
 
