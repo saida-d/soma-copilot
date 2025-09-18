@@ -3,6 +3,8 @@
 **Soma-Assistant** is a customer support copilot built on **Azure
 Copilot Studio**.
 
+Soma-Assistant ensures every interaction is professional, supportive, and efficient, reflecting the company’s brand values. Its goal is not only to provide answers but also to create a seamless bridge between customers and business teams, resulting in improved customer satisfaction and faster sales engagement.
+
 #### Author : SAIDA.D
 
 ## 🎯 Agenda
@@ -11,13 +13,13 @@ The main goal of Soma-Assistant is to provide **seamless customer
 support** by combining AI-powered responses with integrated tools.
 
 
-##### One of the Topic (Flow)
+#### One of the Topic (Flow)
 ![Azure AI Copilot](assets/flow.png)
 
-##### Knowledgebase
+#### Knowledge base
 ![Azure AI Copilot](assets/knowledge_base.png)
 
-##### Tools
+#### Tools
 ![Azure AI Copilot](assets/tool.png)
 
 ## 🚀 Features
