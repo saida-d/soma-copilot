@@ -28,6 +28,13 @@ support** by combining AI-powered responses with integrated tools.
 #### Conversational boosting
 ![Azure AI Copilot](assets/topic.png)
 
+
+#### Soma-Assistant in action
+![Azure AI Copilot](assets/chat_1.png)
+
+
+![Azure AI Copilot](assets/chat_sales.png)
+
 ## 🚀 Features
 
 1.  **Customer Support Q&A**
